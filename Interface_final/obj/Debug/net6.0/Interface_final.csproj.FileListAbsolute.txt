@@ -1,0 +1,14 @@
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\bin\Debug\net6.0\Interface_final.exe
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\bin\Debug\net6.0\Interface_final.deps.json
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\bin\Debug\net6.0\Interface_final.runtimeconfig.json
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\bin\Debug\net6.0\Interface_final.dll
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\bin\Debug\net6.0\Interface_final.pdb
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\obj\Debug\net6.0\Interface_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\obj\Debug\net6.0\Interface_final.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\obj\Debug\net6.0\Interface_final.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\obj\Debug\net6.0\Interface_final.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\obj\Debug\net6.0\Interface_final.dll
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\obj\Debug\net6.0\refint\Interface_final.dll
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\obj\Debug\net6.0\Interface_final.pdb
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\obj\Debug\net6.0\Interface_final.genruntimeconfig.cache
+C:\Users\ahmad\Desktop\Repo\Interface_final\Interface_final\obj\Debug\net6.0\ref\Interface_final.dll
